@@ -3,6 +3,6 @@ remote_theme: false
 debug:
   compress: false
   dist: true
-  extension: true
+  shortcodes: true
 
 theme: jekyll-rtd-theme

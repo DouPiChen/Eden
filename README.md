@@ -1,6 +1,6 @@
-# StewRL
+# StewRL中文文档
 
-1. 这是StewRL中文技术手册
+1. 这是StewRL中文文档
 
 ## site.pages
 

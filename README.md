@@ -1,8 +1,6 @@
-# starter
+# StewRL
 
-1. [Generate with the same files and folders](https://github.com/rundocs/starter/generate) from this repository
-2. Set up your GitHub Pages to source(`/`)
-3. Now you can view your documentation in your site
+1. 这是StewRL中文技术手册
 
 ## site.pages
 
@@ -16,9 +14,6 @@
 
 <!-- prettier-ignore-end -->
 
-## Documents
-
-https://jekyll-rtd-theme.rundocs.io
 
 ## Local debug
 
@@ -29,4 +24,3 @@ make server
 
 ## The license
 
-The theme is available as open source under the terms of the MIT License

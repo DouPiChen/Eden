@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Homepage
+# 主页
 <!-- {% include list.liquid all=true %} -->
 
 

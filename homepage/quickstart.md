@@ -2,4 +2,4 @@
 sort: 2
 ---
 
-# Quick Start
+# 快速使用

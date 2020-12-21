@@ -6,7 +6,7 @@ sort: 1
 
 ## 系统整体结构
 
-![系统结构](C:\Eden\design\pics\architecture.jpg)
+![系统结构](https://github.com/DouPiChen/Eden/blob/master/design/pics/architecture.jpg)
 
 ## 角色模块概要
 

@@ -1,6 +1,6 @@
-# StewRL中文文档
+# Eden中文文档
 
-1. 这是StewRL中文文档
+1. 这是虚拟世界Eden的中文文档
 
 ## site.pages
 

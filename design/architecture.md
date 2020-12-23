@@ -50,7 +50,7 @@ b.移动信息
 （5）状态：状态模块用于生物的智能化，主要的功能包括状态转移和生成生物指令
 （6）事件：事件模块主要负责处理由指令模块产生的事件，这些事件往往需要对其他模块进行修改
 
-![系统结构](https://github.com/DouPiChen/Eden/design/pics/architecture.jpg)
+![系统结构](https://github.com/DouPiChen/Eden/blob/master/design/pics/architecture.jpg)
 
 
 ## 角色模块概要
